@@ -15,7 +15,7 @@ _Puedes acceder a la página web desde cualquier dispositivo._
 Desde tu computadora personal.
 
 ```
-![Desde la computadora](https://pasteboard.co/5FqVeq6TITaf.png)
+![Desde la computadora](https://gcdnb.pbrd.co/images/5FqVeq6TITaf.png)
 ```
 
 Desde tu movil.
