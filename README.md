@@ -46,7 +46,7 @@ _La aplicación se desarrolló para que tenga 4 principales funcionalidades:_
 
 _Sólo debes ingresar los nombres de tus amigos, uno a uno, y agregarlos a la lista presionando el botón "Añadir"._
 
-* Una vez finalizada la carga sólo falta presionar en "Sortear" para obtener el "Amigo Secreto"_
+* Una vez finalizada la carga sólo falta presionar en "Sortear" para obtener el "Amigo Secreto"
 
 * ATENCIÓN!!! La lista no puede estar vacía para realizar el sorteo
 
