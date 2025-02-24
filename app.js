@@ -18,3 +18,15 @@ function agregarAmigo() {
     }
     return;
 }
+
+function listaAmigos() {
+    //Inicia limpiando el elemento de HTML para evitar duplicados de ejecuciones anteriores;
+    listado.innerHTML = "";
+    for (let i = 0; i < amigos.length; i++) { //Si el ingreso es válido agrega el nombre al listado que se encuentra debajo de el campo de ingreso de texto;
+        let li = document.createElement("li");
+        li.textContent = amigos[i];
+        listado.appendChild(li);
+    }
+    return;
+}
+
