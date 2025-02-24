@@ -12,10 +12,12 @@ _Puede convertirse en una forma divertida de determinar quien debe ir a porterí
 _Puedes acceder a la página web desde cualquier dispositivo._
 
 Desde tu computadora personal.
-    ![Visualización desde la computadora](https://gcdnb.pbrd.co/images/5FqVeq6TITaf.png)
+   
+   ![Visualización desde la computadora](https://gcdnb.pbrd.co/images/5FqVeq6TITaf.png)
 
 Desde tu movil.
-![Visualización desde el móvil](https://gcdnb.pbrd.co/images/WymjPA8QUrOp.png)
+   
+   ![Visualización desde el móvil](https://gcdnb.pbrd.co/images/WymjPA8QUrOp.png)
 
 ### Funcionalidades ⚙
 
