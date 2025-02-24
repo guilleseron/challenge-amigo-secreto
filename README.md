@@ -7,55 +7,37 @@ de una lista de nombres ingresada por el usuario._
 
 _Puede convertirse en una forma divertida de determinar quien debe ir a portería en un partido de futbol._
 
-
 ### Pre-requisitos 📋
 
 _Puedes acceder a la página web desde cualquier dispositivo._
 
 Desde tu computadora personal.
-
-```
-<img src="https://gcdnb.pbrd.co/images/5FqVeq6TITaf.png" alt="Desktop">
-```
+    ![Visualización desde la computadora](https://gcdnb.pbrd.co/images/5FqVeq6TITaf.png)
 
 Desde tu movil.
-```
-(https://raw.githubusercontent.com/guilleseron/challenge-amigo-secreto/desarrollo/assets/versionMovil.jpg)
-```
+![Visualización desde el móvil](https://gcdnb.pbrd.co/images/WymjPA8QUrOp.png)
 
 ### Funcionalidades ⚙
 
 _La aplicación se desarrolló para que tenga 4 principales funcionalidades:_
 
-* Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
-
-    ```
-    (Imagen)
-    ```
+* Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".
 
 * Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
-    ```
-    (Imagen)
-    ```
+    ![Ejemplo de alerta por campo vacío](https://gcdnb.pbrd.co/images/9f1vKueDb7A3.png)
 
 * Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 
-    ```
-    (Imagen)
-    ```
+    ![Ejemplo de nombres en la lista](https://gcdnb.pbrd.co/images/zPNv23egOHe4.png)
 
 * Validar que haya amigos disponibles: Antes de sortear, comprobar si el listado de amigos no está vacío. Si así fuera, el programa mostrará una alerta. 
 
-    ```
-    (Imagen)
-    ```
+    ![Ejemplo de alerta "lista vacía"](https://gcdnb.pbrd.co/images/g0dJ7Ot8kvlS.png)
 
 * Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
-    ```
-    (Imagen)
-    ```
+    ![Ejemplo de resultado de sorteo](https://gcdnb.pbrd.co/images/Ggs7hekljEaf.png)
 
 
 ### Instrucciones 🔧
@@ -66,18 +48,8 @@ _Sólo debes ingresar los nombres de tus amigos, uno a uno, y agregarlos a la li
 
 * ATENCIÓN!!! La lista no puede estar vacía para realizar el sorteo
 
-    ```
-    (Imagen)
-    ```
-
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+    ![Ejemplo de alerta "lista vacía"](https://gcdnb.pbrd.co/images/g0dJ7Ot8kvlS.png)
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Guillermo Serón** - *Trabajo Integral* - [guilleseron](https://github.com/guilleseron)
